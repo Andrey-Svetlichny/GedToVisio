@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GedToVisio", "GedToVisio.csproj", "{A80A49EC-FF9A-4DCA-B60A-125F10A05B0A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0CAB22D7-EECB-4809-9EEF-AAF8799828F3}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A80A49EC-FF9A-4DCA-B60A-125F10A05B0A}.Debug|x86.ActiveCfg = Debug|x86
+		{A80A49EC-FF9A-4DCA-B60A-125F10A05B0A}.Debug|x86.Build.0 = Debug|x86
+		{A80A49EC-FF9A-4DCA-B60A-125F10A05B0A}.Release|x86.ActiveCfg = Release|x86
+		{A80A49EC-FF9A-4DCA-B60A-125F10A05B0A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

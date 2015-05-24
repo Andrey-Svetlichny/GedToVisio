@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="GedToVisio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="IndiHeight" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="IndiWidth" Type="System.Single" Scope="Application">
+      <Value Profile="(Default)">1.7</Value>
+    </Setting>
+    <Setting Name="IndiFemaleRounding" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0.2</Value>
+    </Setting>
+    <Setting Name="IndiCharacterSize" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="FamilyHeight" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.25</Value>
+    </Setting>
+    <Setting Name="FamilyWidth" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.5</Value>
+    </Setting>
+    <Setting Name="FamilyCharacterSize" Type="System.Int16" Scope="Application">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="OffsetX" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="OffsetY" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="ScaleX" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">-1.4</Value>
+    </Setting>
+    <Setting Name="ScaleY" Type="System.Double" Scope="Application">
+      <Value Profile="(Default)">0.6</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
